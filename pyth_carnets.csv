@@ -1,4 +1,4 @@
-ID;Carre;Numero;X;Z;Y;Couche;Nature;Remarque;Annee;Xmoy;Zmoy;Ymoy;Travee;Colonne;Xabs;Yabs;Zabs;Couche_simplifiee;Ma_strati;UA;Datation;date_bp;sigma
+ID;Carre;Numero;X;Z;Y;Couche;Nature;Remarque;Annee;Xmoy;Zmoy;Ymoy;Travee;Colonne;Xabs;Yabs;Zabs;Couche_simplifiee;Ma_strati;UA;Datation;Date_bp;Sigma
 I22-1;I22;1;75;-295;12;15 ?;Lithique;;1971;75;-295;12;I;22;275;512;-295;?;?;UA 5a;;;
 I22-2;I22;2;79;-293;23;15 ?;Débris;;1971;79;-293;23;I;22;279;523;-293;15;c.15/15';UA 5a;;;
 I22-3;I22;3;90;-298;33;15 ?;Débris;;1971;90;-298;33;I;22;290;533;-298;?;?;UA 5a;;;
